@@ -1,0 +1,15 @@
+{
+  "item.culinarychemistry.status_baster": "Status Baster",
+  "item.culinarychemistry.smoothie": "Mixed Smoothie",
+  "item.culinarychemistry.juicer": "Juicer",
+  "block.culinarychemistry.blender": "Blender",
+  "container.culinarychemistry.blender": "Blender",
+  "item.culinarychemistry.fish_smoothie": "Fishy Smoothie",
+  "item.culinarychemistry.meat_smoothie": "Meaty Smoothie",
+  "item.culinarychemistry.berry_smoothie": "Berry Smoothie",
+  "item.culinarychemistry.fruit_smoothie": "Fruit Smoothie",
+  "item.culinarychemistry.vegetable_smoothie": "Veggie Smoothie",
+  "item.culinarychemistry.golden_smoothie": "Golden Smoothie",
+  "item.culinarychemistry.foul_smoothie": "Foul Smoothie",
+  "item.culinarychemistry.extracted_potion": "Extracted Potion"
+}

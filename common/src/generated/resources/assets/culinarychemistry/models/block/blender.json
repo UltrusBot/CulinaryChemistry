@@ -1,0 +1,6 @@
+{
+  "parent": "culinarychemistry:block/blender_template",
+  "textures": {
+    "all": "culinarychemistry:block/blender"
+  }
+}
