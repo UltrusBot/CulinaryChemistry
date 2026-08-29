@@ -1,6 +1,6 @@
 package me.ultrusmods.culinarychemistry.gradle
 
-object cProperties {
+object Properties {
     const val MOD = "1.0.0"
 
     const val JAVA = 21
