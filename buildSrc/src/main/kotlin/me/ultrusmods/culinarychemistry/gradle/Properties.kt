@@ -13,11 +13,11 @@ object Properties {
     const val DESCRIPTION = "Mix Food & Status effects with various tools and items."
     const val LICENSE = "MIT"
 
-    const val HOMEPAGE = "https://modrinth.com/project/modrinth-project"
+    const val HOMEPAGE = "https://modrinth.com/project/culinary-chemistry"
     const val CURSEFORGE_PROJECT_ID = "1671544"
     const val MODRINTH_PROJECT_ID = "yBNTZyZy"
     const val GITHUB_REPO = "UltrusBot/CulinaryChemistry"
-    const val GITHUB_COMMITISH = "1.21"
+    const val GITHUB_COMMITISH = "1.21.1"
 
     const val NEOFORGE_LOADER_RANGE = "[4,)"
     const val NEOFORGE_MINECRAFT_RANGE = "[1.21,)"
